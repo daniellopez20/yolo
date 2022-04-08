@@ -1,0 +1,18 @@
+.caja {
+    padding: 30px;
+    margin: 5px;
+}
+
+.izquierda {
+    float: left;
+    background: #32CD32;
+}
+
+.derecha {
+    float: right;
+    background: #4682B4;
+ }
+ .container {
+    display: flex;
+  }
+
